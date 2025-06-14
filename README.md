@@ -8,6 +8,6 @@ I specialise in modular, scalable and maintainable architecture design, and take
 
 I’m actively looking for opportunities and I'm eager to build connections!
 
-## Dev-Cetera Repository
+## My Other Repository
 
 See my other repository: https://github.com/dev-cetera
