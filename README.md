@@ -1,4 +1,4 @@
-## Senior Full-Stack Software Engineer
+# Senior Full-Stack Software Engineer
 
 I’m an enthusiastic Senior Full-Stack Software Engineer with 7+ years of experience in technologies such as Dart, Flutter and Google Cloud.
 
@@ -8,6 +8,6 @@ I specialise in modular, scalable and maintainable architecture design, and take
 
 I’m actively looking for opportunities and I'm eager to build connections!
 
-# Dev-Cetera Repository
+## Dev-Cetera Repository
 
 See my other repository: https://github.com/dev-cetera
