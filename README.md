@@ -1,16 +1,13 @@
-## Hi there 👋
+## Senior Full-Stack Software Engineer
 
-<!--
-**robmllze/robmllze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an enthusiastic Senior Full-Stack Software Engineer with 7+ years of experience in technologies such as Dart, Flutter and Google Cloud.
 
-Here are some ideas to get you started:
+I've successfully delivered many web, iOS, Android and desktop applications, and I've written a ton of open source packages and documentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialise in modular, scalable and maintainable architecture design, and take pride in my work.
+
+I’m actively looking for opportunities and I'm eager to build connections!
+
+# Dev-Cetera Repository
+
+See my other repository: https://github.com/dev-cetera
