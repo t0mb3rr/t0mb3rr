@@ -24,7 +24,7 @@ If you need help with a project, I'm available Upwork and Fiverr:
 
 - [Upwork](https://www.upwork.com/freelancers/~0127f4c1842457b63e)
 - [Fiverr](https://www.fiverr.com/users/dev_cetera/)
-- [Freelancer](https://www.fiverr.com/users/dev_cetera/)
+<-- - [Freelancer](https://www.fiverr.com/users/dev_cetera/) -->
 
 ## Other Links
 
