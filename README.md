@@ -26,7 +26,7 @@ If you need help with a project, I'm available Upwork and Fiverr:
 ## Other Links
 
 - [Buy Me A Coffee](coff.ee/dev_cetera)
-- [LinkedIn](https://www.linkedin.com/in/robmllze/)
+- [LinkedIn](https://www.linkedin.com/in/t0mb3rr/)
 - [Instagram](https://www.instagram.com/dev_cetera/)
 - [X](https://x.com/dev_cetera)
 
