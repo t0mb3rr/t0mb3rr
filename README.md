@@ -31,7 +31,7 @@ If you need help with a project, I'm available on Upwork and Fiverr:
 - [Buy Me A Coffee](coff.ee/dev_cetera)
 - [LinkedIn](https://www.linkedin.com/in/t0mb3rr/)
 - [Instagram](https://www.instagram.com/dev_cetera/)
-- [X](https://x.com/dev_cetera)
+- [X (Twitter)](https://x.com/dev_cetera)
 
 ---
 
