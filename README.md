@@ -49,4 +49,4 @@ If you need help with a project, I'm available on Upwork and Fiverr:
 
 <img src="assets/profile.jpg" alt="Profile Image" width="128">
 
-Robert Mollentze
+**Robert Mollentze**
