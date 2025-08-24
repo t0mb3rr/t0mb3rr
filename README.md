@@ -2,7 +2,7 @@
 
 # Senior Full-Stack Engineer
 
-I’m an enthusiastic Senior Full-Stack Engineer with 7+ years of experience in technologies such as Dart, Flutter and Google Cloud.
+I’m an enthusiastic Senior Full-Stack Engineer with 7+ years of experience in technologies such as Dart, Flutter and Google Cloud and over 15 years of overall programming experience.
 
 I've successfully delivered many web, iOS, Android and desktop applications, and I've written a ton of open source packages and documentation.
 
@@ -25,7 +25,19 @@ If you need help with a project, I'm available on Upwork and Fiverr:
 - [Upwork](https://www.upwork.com/freelancers/~0127f4c1842457b63e)
 - [Fiverr](https://www.fiverr.com/users/dev_cetera/)
 
-## Other Links
+## Tech Stack
+
+- **Languages:** C, C++, C#, Python, Rust, Go, Lua, PowerShell, JS, TypeScript, Dart, HTML, SQL, Node.js.
+- **Frameworks/Tools:** Flutter, .NET, React, Slint, Bevy.
+- **Firebase:** Auth, Firestore, Storage, Functions, Messaging, etc.
+- **Google Cloud:** Cloud Run, Secret Manager, IAM & Admin, etc.
+- **AWS:** Cognito, DynamoDB, etc.
+- **Azure:** Entra, CosmosDB.
+- **Automation:** GitHub Actions, Google Apps Script.
+- **REST & GraphQL API:**. Stripe, Mapbox, SendGrid, Google APIs, OpenAI, Gemeni, etc.
+- **Other:** Supabase Cloudlare, Google Sheets, Google Admin, etc.
+
+## Links
 
 - [Patreon](https://www.patreon.com/c/t0mb3rr)
 - [Buy Me A Coffee](https://buymeacoffee.com/dev_cetera)
