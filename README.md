@@ -1,4 +1,4 @@
-![Banner Image](assets/banner.png)
+![Banner Image](assets/banner.gif)
 
 # Senior Full-Stack Engineer
 
