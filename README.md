@@ -28,7 +28,7 @@ If you need help with a project, I'm available on Upwork and Fiverr:
 ## Tech Stack
 
 - **Languages:** C, C++, C#, Python, Rust, Go, Lua, PowerShell, JS, TypeScript, Dart, HTML, SQL, Node.js.
-- **Frameworks/Tools:** Flutter, .NET, React, Slint, Bevy.
+- **Frameworks/Tools:** Flutter, .NET, React, Slint, Bevy, etc.
 - **Firebase:** Auth, Firestore, Storage, Functions, Messaging, etc.
 - **Google Cloud:** Cloud Run, Secret Manager, IAM & Admin, etc.
 - **AWS:** Cognito, DynamoDB, etc.
