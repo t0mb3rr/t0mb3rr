@@ -2,7 +2,7 @@
 
 # Senior Full-Stack Engineer
 
-I’m an enthusiastic Senior Full-Stack Engineer with 7+ years of experience in technologies such as Dart, Flutter and Google Cloud and over 15 years of overall programming experience.
+I’m an enthusiastic Senior Full-Stack Engineer with over 7 years of experience in technologies such as Dart, Flutter and Google Cloud and over 15 years of overall programming experience.
 
 I've successfully delivered many web, iOS, Android and desktop applications, and I've written a ton of open source packages and documentation.
 
