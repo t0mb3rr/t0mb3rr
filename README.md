@@ -16,7 +16,7 @@ Find my open source projects repository here: https://github.com/dev-cetera
 
 ## Medium Articles
 
-Find the articles I've written here https://medium.com/@dev-cetera
+Find some articles I've written here https://medium.com/@dev-cetera.
 
 ## Upwork & Fiverr
 
